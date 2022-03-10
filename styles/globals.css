@@ -2,8 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
 }
 
 a {
@@ -13,4 +13,20 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.gilroy-bold {
+  font-family: "Gilroy-Bold", sans-serif;
+}
+.gilroy-heavy {
+  font-family: "Gilroy-Heavy", sans-serif;
+}
+.gilroy-light {
+  font-family: "Gilroy-Light", sans-serif;
+}
+.gilroy-medium {
+  font-family: "Gilroy-Medium", sans-serif;
+}
+.gilroy-regular {
+  font-family: "Gilroy-Regular", sans-serif;
 }
